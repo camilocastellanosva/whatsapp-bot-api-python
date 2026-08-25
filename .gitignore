@@ -2,4 +2,4 @@ config.py
 base_datos_leads.xlsx
 .venv/
 __pycache__/
-scripts_prueba1
+
