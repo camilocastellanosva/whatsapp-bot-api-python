@@ -61,3 +61,15 @@ graph TD
     F -->|Inactividad > 60 min| G[Mensaje de Seguimiento / Remarketing]
     G --> C
 ```
+
+
+## 📸 Live Demo / Demostración Visual
+<img width="848" height="332" alt="DEMO (8)" src="https://github.com/user-attachments/assets/c1652a9e-e034-44ef-8381-60446386ff77" />
+<img width="495" height="243" alt="DEMO (7)" src="https://github.com/user-attachments/assets/eb6c749e-a869-4d96-a77b-9ea68b99e663" />
+<img width="482" height="270" alt="DEMO (6)" src="https://github.com/user-attachments/assets/22bf676b-5e0d-4640-95ba-7bb778f28e6b" />
+<img width="1216" height="477" alt="DEMO (5)" src="https://github.com/user-attachments/assets/9f3405e1-c570-4d5e-b276-1eaf81d5052a" />
+<img width="1251" height="760" alt="DEMO (4)" src="https://github.com/user-attachments/assets/46a68f9a-746c-499e-8be2-56ad5ae1756b" />
+<img width="502" height="507" alt="DEMO (3)" src="https://github.com/user-attachments/assets/5e4702b0-8d54-4eed-a2da-e1bd925e5dd2" />
+<img width="483" height="552" alt="DEMO (2)" src="https://github.com/user-attachments/assets/0eedfc14-4c1d-49a6-9d54-253414b11b18" />
+<img width="492" height="567" alt="DEMO (1)" src="https://github.com/user-attachments/assets/f4048118-79a3-4115-9b0b-35a4f44f3eeb" />
+
